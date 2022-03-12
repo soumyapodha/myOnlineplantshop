@@ -4,7 +4,7 @@
 
 #navbar ul li a{
     font-size: 1rem;
-    padding: 0px 7px;
+    padding: 0px 6px;
     flex-direction: column;
 }
 #navbar ul li{
